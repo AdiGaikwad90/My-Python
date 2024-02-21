@@ -5,7 +5,7 @@ Created on Mon Apr 17 09:17:39 2023
 @author: aditya
 """
 
-#####################Intertools##########################
+#####################Itertools##########################
 lst=[]
 for num in range(0,20):
     lst.append(num)
